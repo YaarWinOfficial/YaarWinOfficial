@@ -2,7 +2,7 @@
   <img src="yaar-win-logo.png" alt="Yaar Win Official Logo" width="350">
 </p>
 
-# Yaar Win Official — India Online Gaming Platform 🎮🏆
+# Yaar Win — India Online Gaming Platform 🎮🏆
 
 Yaar Win is an online gaming information platform created for Indian users who want simple guides, safe access links, registration help, app download steps, gift code updates, and live prediction guidance.
 
