@@ -61,7 +61,7 @@ https://t.me/YaarWinBet
 
 ## What is Yaar Win?
 
-Yaar Win is a modern online gaming platform designed for Indian users. It offers fast games, simple registration, mobile-friendly access, payment support, app download options, and beginner-friendly platform guides.
+[YaarWin](https://yaar-wins.com/) is a modern online gaming platform designed for Indian users. It offers fast games, simple registration, mobile-friendly access, payment support, app download options, and beginner-friendly platform guides.
 
 The platform is built for users who want quick access, smooth navigation, and clear information before they start playing.
 
