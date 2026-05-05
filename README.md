@@ -108,13 +108,15 @@ Aviator is a crash-style game where timing is important. Players watch the multi
 
 ## Yaar Win Blog Guides
 
+## Yaar Win Blog Guides
+
 Read our latest Yaar Win guides here:
 
-- [Yaar Win Official Blog](https://yaarwinofficial.github.io/yaar-win-official/)
-- [Yaar Win Real or Fake Review](https://yaarwinofficial.github.io/yaar-win-official/yaar-win-real-or-fake)
-- [Yaar Win Login Guide](https://yaarwinofficial.github.io/yaar-win-official/yaar-win-login-guide)
-- [Yaar Win Register Guide](https://yaarwinofficial.github.io/yaar-win-official/yaar-win-register-guide)
-- [Yaar Win Download App Guide](https://yaarwinofficial.github.io/yaar-win-official/yaar-win-download-app)
+- [Yaar Win Official Blog](https://yaar-wins.com/yaar-win-blog-post/)
+- [Yaar Win Real or Fake Review](https://yaar-wins.com/yaar-win-real-or-fake/)
+- [Yaar Win Login Guide](https://yaar-wins.com/login-guide/)
+- [Yaar Win Register Guide](https://yaar-wins.com/register-guide/)
+- [Yaar Win Download App Guide](https://yaar-wins.com/yaar-win-download-app/)
 
 ---
 
